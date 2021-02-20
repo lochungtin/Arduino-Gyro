@@ -2,8 +2,8 @@
 
 ### Hardware used
 - Arduino Nano
-- GY 521 Accelerometer / Gyro Sensor
+- GY 521 Accelerometer / Gyrosensor
 
 ### Functionality
 1. Reads Gyro Data
-2. Outputs quaterion expression to serial port
+2. Outputs quaternion expression to serial port
