@@ -1,4 +1,4 @@
-## Arduino Gyro Sensor (GY521) Config and Debug
+## Arduino Gyrosensor (GY521) Config and Debug
 
 ### Hardware used
 - Arduino Nano
